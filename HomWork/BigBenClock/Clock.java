@@ -3,9 +3,8 @@ package com.company.HomWork.BigBenClock;
 import javax.xml.crypto.Data;
 import java.util.Date;
 
-/**
- * Created by Pc on 01.01.2017.
- *//* Big Ben clock
+
+ /*Big Ben clock
 1. В выполняющем классе создать приватную переменную isStopped, присвоить ей значение false
 2. Создать класс Clock, унаследовать его от Thread
 3. В классе Clock:
