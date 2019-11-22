@@ -4,9 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/**
- * Created by Pc on 27.11.2016.
- */
+
 public class Time {
    // Time time = new Time();
 

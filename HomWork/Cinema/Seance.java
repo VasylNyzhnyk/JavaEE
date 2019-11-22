@@ -1,8 +1,6 @@
 package com.company.HomWork.Cinema;
 
-/**
- * Created by Pc on 27.11.2016.
- */
+
 public class Seance {
     String Movie;
     int startTime;
