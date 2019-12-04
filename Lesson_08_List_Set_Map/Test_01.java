@@ -1,4 +1,3 @@
-package com.company.Lesson_08_List_Set_Map;
 
 import java.io.BufferedReader;
 import java.io.IOException;
